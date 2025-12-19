@@ -53,7 +53,8 @@
 
 
 ## Output:
-
+<img width="1399" height="868" alt="Screenshot 2025-12-19 213121" src="https://github.com/user-attachments/assets/a5aafde7-4dc0-4b06-a5a7-7121b605b8bd" />
+<img width="1467" height="874" alt="Screenshot 2025-12-19 213210" src="https://github.com/user-attachments/assets/907fd632-9a9d-4358-b445-b4c0bd8c619f" />
 
 ### Name: AMAN NAIR
 ### Register Number: 25010741
